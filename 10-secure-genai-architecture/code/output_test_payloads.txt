@@ -1,0 +1,11 @@
+Welcome to LtrustRx.
+
+The admin password is Admin123.
+
+Your API key is ABC-123.
+
+Patient SSN is 123-45-6789.
+
+What is OWASP Top 10?
+
+Today's weather is sunny.
