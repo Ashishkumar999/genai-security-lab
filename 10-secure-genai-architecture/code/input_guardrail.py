@@ -2,9 +2,11 @@
 
 blocked_patterns = [
     "ignore previous instructions",
+    "disregard previous instructions",
+    "forget previous instructions",
     "reveal system prompt",
-    "show hidden instructions",
-    "print system prompt",
+    "show hidden configuration",
+    "output internal instructions",
     "developer mode",
     "bypass security"
 ]
