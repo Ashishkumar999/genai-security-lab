@@ -1,0 +1,21 @@
+Patient Name: John Smith
+
+Patient SSN: 123-45-6789
+
+Medical Condition: Diabetes
+
+Doctor: Dr. Adams
+
+--------------------
+
+Employee Name: Sarah Jones
+
+Salary: $120000
+
+Internal HR Record
+
+--------------------
+
+Company API Key:
+
+sk-prod-abc123xyz
