@@ -1,0 +1,9 @@
+Patient: John Smith
+
+Diagnosis: Diabetes
+
+-------------------
+
+Patient: Sarah Jones
+
+Diagnosis: Cancer
