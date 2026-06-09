@@ -1,0 +1,2 @@
+2026-06-09 11:54:14.430550 | Agent=research_agent | Action=search_documents | Result=ALLOWED
+2026-06-09 11:54:45.526020 | Agent=research_agent | Action=delete_records | Result=BLOCKED
