@@ -1,0 +1,22 @@
+User
+ │
+ ▼
+Web Application
+ │
+ ▼
+LLM
+ │
+ ▼
+RAG Retriever
+ │
+ ▼
+Vector Database
+
+Threats:
+
+1. Prompt Injection
+2. Data Leakage
+3. Metadata Filter Bypass
+4. Tool Abuse
+5. Memory Poisoning
+6. Unauthorized Access
