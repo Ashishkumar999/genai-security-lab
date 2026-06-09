@@ -1,0 +1,24 @@
+title: AI Prompt Injection Attempt
+
+id: AI-001
+
+status: experimental
+
+description: Detects prompt injection attempts.
+
+logsource:
+
+  product: ai_security
+
+detection:
+
+  selection:
+
+    prompt:
+      - "ignore previous instructions"
+      - "reveal system prompt"
+      - "developer mode"
+
+  condition: selection
+
+level: high
